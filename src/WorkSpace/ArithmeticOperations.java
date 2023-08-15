@@ -20,7 +20,7 @@ public class ArithmeticOperations {
 
         int x = 7;
         x/=3;
-        System.out.print();
+        System.out.print(x);
 
 
 
